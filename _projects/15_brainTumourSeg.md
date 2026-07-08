@@ -43,6 +43,4 @@ Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and **Liu, J.
     - **Completed**{: .tag} Monash Master's Minor Thesis Project.
 
 ## Prototype Video
-<iframe width="420" height="315"
-src="https://youtu.be/bNXE739Gef0">
-</iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/bNXE739Gef0" title="SAMMed VR demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

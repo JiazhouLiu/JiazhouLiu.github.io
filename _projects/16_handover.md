@@ -33,7 +33,7 @@ This project will further explore the application of a generative AI-facilitated
 
 The project will also explore leveraging augmented reality to develop a cross-reality system that supports collaborative but remote and even asynchronous nurse handovers. Traditional handover requires nurses to be co-located, while AR and AI could enable asynchronous information exchange (e.g., pre-recorded handover or a remote handover process for patient transfer) for shared understanding and flexible communication during the transition of care.
 
-# Project Start Year
+### Project Start Year
 2024
 
 ## Project Collaborators
@@ -57,9 +57,5 @@ Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta,
     - **Under Review**{: .tag} ARC DECRA 2027  
 
 ## Prototype Video
-<iframe width="420" height="315"
-src="https://youtu.be/tcdHMETceDA">
-</iframe>
-<iframe width="420" height="315"
-src="https://youtu.be/rm_xWvgnWXE">
-</iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tcdHMETceDA" title="HandovAR Prototype Demo via Apple Vision Pro (Mixed Reality)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/rm_xWvgnWXE" title="HandovAR Prototype Demo via Meta Quest 3 (VR simulating AR)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
