@@ -36,5 +36,8 @@ Feedback from industry stakeholders confirmed the strong potential of this appro
 **PhD candidate**: <a class="tag" target="_blank" href="https://building4pointzero.org/people/fucai-ke/">Fucai Ke</a>
 
 ## External Website and Resources
+<a class="tag" target="_blank" href="https://building4pointzero.org/projects/29-real-time-ehs-intervention-to-improve-site-safety-scoping-study/">Building 4.0 CRC Project Website</a>
 <a class="tag" target="_blank" href="https://building4pointzero.org/wp-content/uploads/2026/02/Project-29-Final-Report_Final-public-version.pdf">Building 4.0 CRC Final Report</a>
-<a class="tag" target="_blank" href="https://youtu.be/-ZbInoBGKkg">Prototype Video</a> 
+
+## Project Video
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-ZbInoBGKkg" title="Interview Video Demo for Building 4.0 CRC Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
