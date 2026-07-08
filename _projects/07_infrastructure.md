@@ -24,7 +24,7 @@ This research aims to examine the current state of research relevant to indoor a
 2025 - 2026
 
 ## Project Collaborator
- - **Monash Transport Engineering Research Group** [Prof. Le Hai Vu](https://research.monash.edu/en/persons/le-hai-vu/)
+ - **Monash Transport Engineering Research Group**: [Prof. Le Hai Vu](https://research.monash.edu/en/persons/le-hai-vu/)
 
 ## Student Project
   - **Fusion of Infrastructure-Based 3D Pose Estimation and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality**

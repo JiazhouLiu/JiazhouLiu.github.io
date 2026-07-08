@@ -25,8 +25,8 @@ The core of this project is an adaptation mechanism that uses network bandwidth,
 2025 - 2026
 
 ## Project Collaborators
- - **Monash Embodied Visualisation Research Group** [Pari Delir Haghighi](https://research.monash.edu/en/persons/pari-delir-haghighi/)
- - **Monash Vision and Language Research Group** [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
+ - **Monash Embodied Visualisation Research Group**: [Pari Delir Haghighi](https://research.monash.edu/en/persons/pari-delir-haghighi/)
+ - **Monash Vision and Language Research Group**: [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
 
 ## Student Project
   - **A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality**

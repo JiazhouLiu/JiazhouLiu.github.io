@@ -30,8 +30,8 @@ The expected contribution of this work is to provide the first methodologically 
 2025 - 2026
 
 ## Project Collaborators
-  - **Monash Embodied Visualisation Research Group** [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto/), [Yidan Zhang](https://research.monash.edu/en/persons/yidan-zhang/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
-  - **University of Queensland Extended Reality Research Group** [Ang Li](https://angli.phd/)
+  - **Monash Embodied Visualisation Research Group**: [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto/), [Yidan Zhang](https://research.monash.edu/en/persons/yidan-zhang/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+  - **University of Queensland Extended Reality Research Group**: [Ang Li](https://angli.phd/)
 
 ## Student Project
   - **Towards Intelligent Immersive Healthcare: A Systematic Review on the Integration of AI with AR/VR in Medical Applications**

@@ -29,9 +29,9 @@ Collectively, this research contributes to a deeper understanding of human spati
 2020 - 2022
 
 ## Project Supervisors
- - **Monash Embodied Visualisation Research Group** [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
- - **The University of British Columbia** [A/Prof. Barrett Ens](https://cmps.ok.ubc.ca/about/contact/barrett-ens/)
- - **French Institute for Research in Computer Science and Automation** [Arnaud Prouzeau](https://www.aprouzeau.com/)
+ - **Monash Embodied Visualisation Research Group**: [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+ - **The University of British Columbia**: [A/Prof. Barrett Ens](https://cmps.ok.ubc.ca/about/contact/barrett-ens/)
+ - **French Institute for Research in Computer Science and Automation**: [Arnaud Prouzeau](https://www.aprouzeau.com/)
 
 ## Publication and Thesis
 **Liu, J.**, Satriadi, K.A., Ens, B. and Dwyer, T., 2024, October. Investigating the effects of physical landmarks on spatial memory for information visualisation in augmented reality. *In 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 289-298)*. IEEE. [Publication Link](/publication/arlandmark)

@@ -28,10 +28,10 @@ The potential impact of BSTS lies in its ability to transform how behavioural sk
 2025
 
 ## Project Collaborators
- - **Monash Digital Health Research Group** [Prof. Chris Bain](https://research.monash.edu/en/persons/chris-bain/)
- - **Monash Embodied Visualisation Research Group** [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
- - **Monash Department of Paramedicine** [Prof. Brendan Shannon](https://research.monash.edu/en/persons/brendan-shannon/)
- - **Monash School of Clinical Sciences** [Marijke Mitchell](https://research.monash.edu/en/persons/marijke-mitchell/)
+ - **Monash Digital Health Research Group**: [Prof. Chris Bain](https://research.monash.edu/en/persons/chris-bain/)
+ - **Monash Embodied Visualisation Research Group**: [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+ - **Monash Department of Paramedicine**: [Prof. Brendan Shannon](https://research.monash.edu/en/persons/brendan-shannon/)
+ - **Monash School of Clinical Sciences**: [Marijke Mitchell](https://research.monash.edu/en/persons/marijke-mitchell/)
  - **Monash School of Nursing and Midwifery**: [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
 
 ## Student Project

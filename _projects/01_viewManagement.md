@@ -31,9 +31,9 @@ In this research, we consider adapting a typical visualisation design pattern th
 2018 - 2020
 
 ## Project Supervisors
- - **Monash Embodied Visualisation Research Group** [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
- - **The University of British Columbia** [A/Prof. Barrett Ens](https://cmps.ok.ubc.ca/about/contact/barrett-ens/)
- - **French Institute for Research in Computer Science and Automation** [Arnaud Prouzeau](https://www.aprouzeau.com/)
+ - **Monash Embodied Visualisation Research Group**: [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+ - **The University of British Columbia**: [A/Prof. Barrett Ens](https://cmps.ok.ubc.ca/about/contact/barrett-ens/)
+ - **French Institute for Research in Computer Science and Automation**: [Arnaud Prouzeau](https://www.aprouzeau.com/)
 
 ## Publication and Thesis
 **Liu, J.**, Prouzeau, A., Ens, B. and Dwyer, T., 2020, March. Design and evaluation of interactive small multiples data visualisation in immersive spaces. *In 2020 IEEE conference on virtual reality and 3D user interfaces (VR) (pp. 588-597)*. IEEE. [Publication Link](/publication/smallmultiples)

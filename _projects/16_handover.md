@@ -37,7 +37,7 @@ The project will also explore leveraging augmented reality to develop a cross-re
 2024
 
 ## Project Collaborators
-  - **Monash Embodied Visualisation Research Group** [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto/), [Kadek Satriadi](https://research.monash.edu/en/persons/kadek-satriadi/), & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+  - **Monash Embodied Visualisation Research Group**: [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto/), [Kadek Satriadi](https://research.monash.edu/en/persons/kadek-satriadi/), & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
   - **Monash School of Nursing and Midwifery**: [A/Prof. Zerina Lokmic-Tomkins](https://www.monash.edu/medicine/nursing/about/staff/zerina-tomkins) & [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
   - **Monash Augmented Intelligence and Multimodal Analytics (AIM) for Health Lab**: [Deval Mehta](https://research.monash.edu/en/persons/deval-mehta/)
 

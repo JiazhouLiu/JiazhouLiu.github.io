@@ -22,7 +22,7 @@ The ongoing research aims to understand how contextual environments influence us
 2026
 
 ## Project Collaborators
-  - **Monash Embodied Visualisation Research Group** [Kadek Satriadi](https://research.monash.edu/en/persons/kadek-satriadi/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+  - **Monash Embodied Visualisation Research Group**: [Kadek Satriadi](https://research.monash.edu/en/persons/kadek-satriadi/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
 
 ## Student Project
   - **Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics**

@@ -29,7 +29,7 @@ Against this background, this literature review examines current research in int
 2026
 
 ## Project Collaborator
- - **Monash Vision and Language Research Group** [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
+ - **Monash Vision and Language Research Group**: [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
 
 ## Student Project
   - **Intelligent Control and Manufacturing in the Agentic Era**

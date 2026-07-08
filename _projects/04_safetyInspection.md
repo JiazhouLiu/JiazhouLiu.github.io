@@ -25,8 +25,8 @@ Feedback from industry stakeholders confirmed the strong potential of this appro
 2023 - 2025
 
 ## Project Collaborators
-  - **Monash Embodied Visualisation Research Group** [Pari Delir Haghighi](https://research.monash.edu/en/persons/pari-delir-haghighi/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
-  - **Monash Vision and Language Research Group** [A./Prof Hamid Rezatofighi](https://research.monash.edu/en/persons/hamid-rezatofighi/) & [Teresa Wang](https://research.monash.edu/en/persons/teresa-wang/)
+  - **Monash Embodied Visualisation Research Group**: [Pari Delir Haghighi](https://research.monash.edu/en/persons/pari-delir-haghighi/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+  - **Monash Vision and Language Research Group**: [A./Prof Hamid Rezatofighi](https://research.monash.edu/en/persons/hamid-rezatofighi/) & [Teresa Wang](https://research.monash.edu/en/persons/teresa-wang/)
   - **UNSW Human-centred Computing**: [Benjamin Tag](https://www.unsw.edu.au/staff/benjamin-tag)
 
 ## Publication

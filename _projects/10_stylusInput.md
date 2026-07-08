@@ -32,7 +32,7 @@ Ultimately, this research contributes to the broader field of spatial computing 
 2026
 
 ## Project Collaborator
- - **Monash Vision and Language Research Group** [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
+ - **Monash Vision and Language Research Group**: [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
 
 ## Student Project
   - **Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality**
