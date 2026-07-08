@@ -26,12 +26,14 @@ The proposed approach comprises two components, namely, a deep learning model im
 
 Recent studies have shown the potential use of Augmented Reality (AR) to display 3D visualisations in the medical field. Inspired by those works, we will develop an innovative pipeline for 3D visualisation of segmented tumour regions alongside the original MRI scans. This will enable clinicians to analyse tumour characteristics comprehensively and interact with 3D volume data naturally, leading to more informed decision-making in diagnosis and treatment planning.
 
-## Pulications
+## Publications
 Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and **Liu, J.**, (2025 Oct), SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation. [Publication Link](/publication/sammedvr)
-
-## Protoype Video
-[Video Link](https://youtu.be/bNXE739Gef0){: target="_blank"}
 
 ## Student Projects
   - **A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images**
     - **Completed**{: .tag} Monash Master's Minor Thesis Project.
+
+## Prototype Video
+<iframe width="420" height="315"
+src="https://youtu.be/bNXE739Gef0">
+</iframe>

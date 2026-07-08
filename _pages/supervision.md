@@ -40,70 +40,6 @@ author_profile: true
 
 <div class="student-card">
   <div class="student-photo">
-    <img src="/images/students/Jun.jpg" alt="profile photo">
-  </div>
-  <div class="student-content">
-    <h3 class="student-name">
-      <a target="_blank" href="https://www.linkedin.com/in/jun-yong-khor-7547a3296/">Jun Yong Khor</a>
-    </h3>
-    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
-    <p class="student-description">
-      Thesis Title: <b>Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover</b> <br>
-      <a class="tag" href="/projects/handover/">Project Page</a>
-    </p>
-  </div>
-</div>
-
-<div class="student-card">
-  <div class="student-photo">
-    <img src="/images/students/Xiumiao.jpg" alt="profile photo">
-  </div>
-  <div class="student-content">
-    <h3 class="student-name">
-      <a target="_blank" href="https://www.linkedin.com/in/xiumiao-zhang-89363036a/">Xiumiao Zhang</a>
-    </h3>
-    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
-    <p class="student-description">
-      Thesis Title: <b>Towards Intelligent Immersive Healthcare: A Systematic Literature Review</b> <br>
-      <a class="tag" href="/projects/intelhealthcare/">Project Page</a>
-    </p>
-  </div>
-</div>
-
-<div class="student-card">
-  <div class="student-photo">
-    <img src="/images/students/Shuyang.jpeg" alt="profile photo">
-  </div>
-  <div class="student-content">
-    <h3 class="student-name">
-      Shuyang Yan
-    </h3>
-    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
-    <p class="student-description">
-      Thesis Title: <b>A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality</b> <br>
-      <a class="tag" href="/projects/contextAware/">Project Page</a>
-    </p>
-  </div>
-</div>
-
-<div class="student-card">
-  <div class="student-photo">
-    <img src="/images/students/william.jpg" alt="profile photo">
-  </div>
-  <div class="student-content">
-    <h3 class="student-name">
-      <a target="_blank" href="https://www.linkedin.com/in/william-tioe/">William Tioe</a>
-    </h3>
-    <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
-    <p class="student-description">
-      Thesis Title: <b>Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality</b> <br>
-      <a class="tag" href="/projects/infrastructure/">Project Page</a>
-    </p>
-  </div>
-</div>
-
-<div class="student-card">
-  <div class="student-photo">
     <img src="/images/students/phoebe.jpg" alt="profile photo">
   </div>
   <div class="student-content">
@@ -183,6 +119,69 @@ author_profile: true
 </div>
 
 ## Graduate Students
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Jun.jpg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/jun-yong-khor-7547a3296/">Jun Yong Khor</a>
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: <b>Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover</b> <br>
+      <a class="tag" href="/projects/handover/">Project Page</a>
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Xiumiao.jpg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/xiumiao-zhang-89363036a/">Xiumiao Zhang</a>
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: <b>Towards Intelligent Immersive Healthcare: A Systematic Literature Review</b> <br>
+      <a class="tag" href="/projects/intelhealthcare/">Project Page</a>
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Shuyang.jpeg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      Shuyang Yan
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: <b>A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality</b> <br>
+      <a class="tag" href="/projects/contextAware/">Project Page</a>
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/william.jpg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/william-tioe/">William Tioe</a>
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: <b>Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality</b> <br>
+      <a class="tag" href="/projects/infrastructure/">Project Page</a>
+    </p>
+  </div>
+</div>
 
 <div class="student-card">
   <div class="student-photo">

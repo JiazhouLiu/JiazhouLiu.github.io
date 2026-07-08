@@ -33,8 +33,12 @@ This project will further explore the application of a generative AI-facilitated
 
 The project will also explore leveraging augmented reality to develop a cross-reality system that supports collaborative but remote and even asynchronous nurse handovers. Traditional handover requires nurses to be co-located, while AR and AI could enable asynchronous information exchange (e.g., pre-recorded handover or a remote handover process for patient transfer) for shared understanding and flexible communication during the transition of care.
 
-## Project Collaborator
-  - **Monash School of Nursing and Midwifery**: [Associate Professor Zerina Lokmic-Tomkins](https://www.monash.edu/medicine/nursing/about/staff/zerina-tomkins) & [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
+# Project Start Year
+2024
+
+## Project Collaborators
+  - **Monash Embodied Visualisation Research Group** [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto/), [Kadek Satriadi](https://research.monash.edu/en/persons/kadek-satriadi/), & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+  - **Monash School of Nursing and Midwifery**: [A/Prof. Zerina Lokmic-Tomkins](https://www.monash.edu/medicine/nursing/about/staff/zerina-tomkins) & [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
   - **Monash Augmented Intelligence and Multimodal Analytics (AIM) for Health Lab**: [Deval Mehta](https://research.monash.edu/en/persons/deval-mehta/)
 
 ## Publications
@@ -51,3 +55,11 @@ Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta,
 ## External Funded Projects
   - **Improving Emergency Response Handover with AI and Augmented Reality**
     - **Under Review**{: .tag} ARC DECRA 2027  
+
+## Prototype Video
+<iframe width="420" height="315"
+src="https://youtu.be/tcdHMETceDA">
+</iframe>
+<iframe width="420" height="315"
+src="https://youtu.be/rm_xWvgnWXE">
+</iframe>
