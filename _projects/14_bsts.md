@@ -1,7 +1,7 @@
 ---
 title: 'Behavioural Skills Training System for Emergency Services Workers'
 status: Ongoing
-fundedBy: 'Student Project'
+fundedBy: 'Research Project'
 role: 'Project Lead'
 permalink: /projects/bsts/
 excerpt: 'The project tests flexible virtual personas that vary in tone, emotion, and resistance to create adaptive role play. It aims to improve the quality, accessibility, and scalability of simulation training, especially for regional and remote learners. Educators can supervise sessions in real time or review interactions through secure recordings and analytics, strengthening feedback loops.'
@@ -24,6 +24,16 @@ The potential impact of BSTS lies in its ability to transform how behavioural sk
 
 <img src="/images/projects/Paramedic-Students-2.jpg" alt="Behavioural Skills Training System">
 
-## Student Projects
+### Project Start Year
+2025
+
+## Project Collaborators
+ - **Monash Digital Health Research Group** [Prof. Chris Bain](https://research.monash.edu/en/persons/chris-bain/)
+ - **Monash Embodied Visualisation Research Group** [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+ - **Monash Department of Paramedicine** [Prof. Brendan Shannon](https://research.monash.edu/en/persons/brendan-shannon/)
+ - **Monash School of Clinical Sciences** [Marijke Mitchell](https://research.monash.edu/en/persons/marijke-mitchell/)
+ - **Monash School of Nursing and Midwifery**: [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
+
+## Student Project
   - **Design and Evaluation of a VR-Based Behavioural Skills Training System for Nursing Students**
     - **Ongoing**{: .tag} Monash Advanced CS Research Project.  

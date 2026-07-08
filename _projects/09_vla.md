@@ -1,7 +1,7 @@
 ---
 title: 'Intelligent Control and Manufacturing in the Agentic Era'
 status: Ongoing
-fundedBy: 'Student Project'
+fundedBy: 'Research Project'
 role: 'Project Lead'
 permalink: /projects/vla/
 excerpt: 'This project proposes a simulation-based research framework that investigates how VLA-inspired decision-making can support adaptive robotic behaviours in tasks such as storage, retrieval, sorting, and replenishment. By focusing on system integration, realistic task modelling, and evaluation under dynamic operational conditions, this research aims to contribute toward more practical and scalable intelligent manufacturing systems in the agentic era.'
@@ -24,3 +24,13 @@ A further challenge is that much of the current literature remains centred on co
 Against this background, this literature review examines current research in intelligent robotic control for manufacturing, with a focus on how different approaches address the integration of perception, reasoning, and action in robotic systems. Rather than only summarising representative work, the review compares and analyses existing methods in terms of their assumptions, capabilities, and limitations. In particular, this study is guided by three research questions: 1. What technical challenges arise when robotic systems operate under variable and unstructured manufacturing conditions, and how are these challenges addressed in existing literature? 2. How can these approaches be integrated into a unified system for perception, reasoning, and action in robotic task execution? 3. How can such systems be systematically evaluated in terms of robustness, generalisation, and adaptability?
 
 <img src="/images/projects/VLA.png" alt="vision language action model">
+
+### Project Start Year
+2026
+
+## Project Collaborator
+ - **Monash Vision and Language Research Group** [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
+
+## Student Project
+  - **Intelligent Control and Manufacturing in the Agentic Era**
+    - **Ongoing**{: .tag} Monash Master's Minor Thesis Project.  

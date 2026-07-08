@@ -1,7 +1,7 @@
 ---
 title: 'Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality'
-status: Ongoing
-fundedBy: 'Student Project'
+status: Completed
+fundedBy: 'Research Project'
 role: 'Project Co-lead'
 permalink: /projects/infrastructure/
 excerpt: 'This project uses a comparative experimental design to evaluate a baseline smartphone-only AR navigation system against a hybrid system supported by sparse infrastructure cameras. Through a phased approach, first extending the Monash campus app into an AR prototype, then integrating stereo camera-based 3D reconstructions, the study investigates whether periodic infrastructure “checkpoints” can reduce drift and improve robustness in indoor AR navigation under controlled lab conditions.'
@@ -19,3 +19,13 @@ Consequently, the development of indoor AR navigation relies on alternative appr
 This research aims to examine the current state of research relevant to indoor augmented reality navigation. We plan to evaluate whether fixed infrastructure cameras, fused with device VIO and aligned through a 3D floor model, can support drift-resilient, low-latency indoor AR localisation. Rather than treating infrastructure cameras as primary anchors, the study will test their role as periodic checkpoints to correct drift. The intention is to balance the accessibility of device-only methods with the robustness of infrastructure-supported systems, contributing evidence on how such hybrid designs can enhance the scalability and reliability of markerless indoor AR.
 
 <img src="/images/projects/Infrastructure.png" alt="Using infrastructure for indoor navigation">
+
+### Project Start Year - End Year
+2025 - 2026
+
+## Project Collaborator
+ - **Monash Transport Engineering Research Group** [Prof. Le Hai Vu](https://research.monash.edu/en/persons/le-hai-vu/)
+
+## Student Project
+  - **Fusion of Infrastructure-Based 3D Pose Estimation and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality**
+    - **Completed**{: .tag} Monash Master's Minor Thesis Project.  [Final Thesis](/files/William_Thesis.pdf)

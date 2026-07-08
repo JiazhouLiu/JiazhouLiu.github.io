@@ -32,13 +32,12 @@ Recent studies have shown the potential use of Augmented Reality (AR) to display
 ## Project Collaborators
  - **Monash Embodied Visualisation Research Group** [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
  - **Monash Vision and Language Research Group** [Himashi Peiris](https://research.monash.edu/en/persons/himashi-peiris/) & [A/Prof. Zhaolin Chen](https://research.monash.edu/en/persons/zhaolin-chen)
- - **University of Queensland Extended Reality Research Group** [Ang Li](https://angli.phd/) & [A/Prof. Maxime Cordeil](https://eecs.uq.edu.au/profile/5945/maxime-cordeil)
+ - **University of Queensland** [Ang Li](https://angli.phd/) & [A/Prof. Maxime Cordeil](https://eecs.uq.edu.au/profile/5945/maxime-cordeil)
 
-
-## Publications
+## Publication
 Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and **Liu, J.**, (2025 Oct), SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation. [Publication Link](/publication/sammedvr)
 
-## Student Projects
+## Student Project
   - **A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images**
     - **Completed**{: .tag} Monash Master's Minor Thesis Project.
 

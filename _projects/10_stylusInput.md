@@ -1,7 +1,7 @@
 ---
 title: 'Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality Interfaces'
 status: Ongoing
-fundedBy: 'Student Project'
+fundedBy: 'Research Project'
 role: 'Project Lead'
 permalink: /projects/stylusInput/
 excerpt: 'This research examines text input methods in virtual and mixed reality, highlighting limitations in speed, accuracy, and usability across keyboards, speech, and gesture-based approaches, and identifies stylus-based input as a promising alternative. It proposes a system that converts 3D stylus trajectories into text using machine learning, aiming to provide a more natural, efficient, and adaptable input method for immersive environments.'
@@ -27,3 +27,13 @@ Ultimately, this research contributes to the broader field of spatial computing 
 
 <img src="/images/projects/maxresdefault.jpg" alt="MR Stylus for Meta Quest">
 *Fig: MR Stylus for Meta Quest ([website](https://www.logitech.com/en-us/products/vr/mx-ink.html))*
+
+### Project Start Year
+2026
+
+## Project Collaborator
+ - **Monash Vision and Language Research Group** [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
+
+## Student Project
+  - **Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality**
+    - **Ongoing**{: .tag} Monash Advanced CS Research Project.  

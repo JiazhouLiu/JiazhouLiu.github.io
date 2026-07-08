@@ -1,7 +1,7 @@
 ---
 title: 'ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education'
 status: Completed
-fundedBy: 'Student Project'
+fundedBy: 'Research Project'
 role: 'Project Lead'
 permalink: /projects/prodais/
 excerpt: 'This study explored how Generative AI can support productive group discussions by acting as a low-interference regulatory partner rather than a content generator. Using a Design-Based Research approach, we developed and evaluated ProDAIS, a lightweight AI facilitator grounded in SSRL and APT frameworks, with results showing high usability, low cognitive load, and effective support for participation balance and time management.'
@@ -27,3 +27,14 @@ In Phase 2, the study focused on the iterative design and evaluation of ProDAIS 
 
 ## Publication
 <a href="/files/ProDAIS_Preprint.pdf">Preprint</a>
+
+### Project Start Year - End Year
+2024 - 2026
+
+## Project Collaborators
+  - **Monash Action Lab**: [Delvin Varghese](https://research.monash.edu/en/persons/delvin-varghese/)
+  - **Adelaide University College of Education, Behavioural and Social Sciences**: [Flora Jin](https://adelaide.edu.au/people/flora.jin)
+
+## Student Project
+  - **ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education**
+    - **Completed**{: .tag} Monash Master's Minor Thesis Project. [Final Thesis Paper](/files/ProDAIS_Preprint.pdf)

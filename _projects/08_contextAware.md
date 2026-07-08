@@ -1,7 +1,7 @@
 ---
 title: 'A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality'
-status: Ongoing
-fundedBy: 'Student Project'
+status: Completed
+fundedBy: 'Research Project'
 role: 'Project Lead'
 permalink: /projects/contextAware/
 excerpt: 'This project aims to address the limitations identified in the current state of the art by designing and evaluating a context-aware computing framework for distributed vision-based AR systems.'
@@ -20,3 +20,14 @@ The core of this project is an adaptation mechanism that uses network bandwidth,
 <img src="/images/projects/time_breakdown.png" alt="Context Aware Computing">
 
 <img src="/images/projects/CAmodule_breakdown.png" alt="Context Aware Computing">
+
+### Project Start Year - End Year
+2025 - 2026
+
+## Project Collaborators
+ - **Monash Embodied Visualisation Research Group** [Pari Delir Haghighi](https://research.monash.edu/en/persons/pari-delir-haghighi/)
+ - **Monash Vision and Language Research Group** [Fucai Ke](https://research.monash.edu/en/persons/fucai-ke/)
+
+## Student Project
+  - **A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality**
+    - **Completed**{: .tag} Monash Master's Minor Thesis Project. [Final Thesis](/files/Shuyang_Thesis.pdf)

@@ -1,7 +1,7 @@
 ---
 title: 'Towards Intelligent Immersive Healthcare: A Systematic Literature Review'
-status: Ongoing
-fundedBy: 'Student Project'
+status: Completed
+fundedBy: 'Research Project'
 role: 'Project Lead'
 permalink: /projects/intelhealthcare/
 excerpt: 'This systematic literature review examines how Augmented Reality (AR) and Artificial Intelligence (AI) are being integrated to support medical clinical trials, with a focus on where AI augments AR (e.g., real-time sensing, decision support, adaptive guidance) across trial workflows. It synthesises current integration patterns, application areas, and research gaps to inform the design of more intelligent, immersive trial tools.'
@@ -25,3 +25,14 @@ To address this gap, this project conducts a systematic literature review to com
 The expected contribution of this work is to provide the first methodologically rigorous and comprehensive synthesis of intelligent immersive healthcare systems. By identifying key application areas, technological approaches, evaluation methods, and evidence of clinical impact, the study aims to inform future research, support evidence-based adoption, and guide the design of more effective, interpretable, and scalable healthcare technologies. 
 
 <img src="/images/projects/iaxaiFull.png" alt="Towards Intelligent Immersive Healthcare: A Systematic Literature Review">
+
+### Project Start Year - End Year
+2025 - 2026
+
+## Project Collaborators
+  - **Monash Embodied Visualisation Research Group** [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto/), [Yidan Zhang](https://research.monash.edu/en/persons/yidan-zhang/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+  - **University of Queensland Extended Reality Research Group** [Ang Li](https://angli.phd/)
+
+## Student Project
+  - **Towards Intelligent Immersive Healthcare: A Systematic Review on the Integration of AI with AR/VR in Medical Applications**
+    - **Completed**{: .tag} Monash Master's Minor Thesis Project. [Final Thesis](/files/Xiumiao_Thesis.pdf)

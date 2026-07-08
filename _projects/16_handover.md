@@ -41,7 +41,7 @@ The project will also explore leveraging augmented reality to develop a cross-re
   - **Monash School of Nursing and Midwifery**: [A/Prof. Zerina Lokmic-Tomkins](https://www.monash.edu/medicine/nursing/about/staff/zerina-tomkins) & [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
   - **Monash Augmented Intelligence and Multimodal Analytics (AIM) for Health Lab**: [Deval Mehta](https://research.monash.edu/en/persons/deval-mehta/)
 
-## Publications
+## Publication
 Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta, D., Lokmic-Tomkins, Z. and Dwyer, T., 2026. HandovAR: Towards AR and AI Support for ICU Nurse Handover. [Publication Link](/publication/handoverWorkshopPaper)
 
 ## Student Projects
@@ -52,10 +52,11 @@ Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta,
   - **Supporting Nurse Handover Procedures Using Immersive Display Technologies**
     - **Ongoing**{: .tag} Monash Honours Project. 
 
-## External Funded Projects
+## External Funded Project
   - **Improving Emergency Response Handover with AI and Augmented Reality**
     - **Under Review**{: .tag} ARC DECRA 2027  
 
-## Prototype Video
+## Prototype Videos
 <iframe width="420" height="315" src="https://www.youtube.com/embed/tcdHMETceDA" title="HandovAR Prototype Demo via Apple Vision Pro (Mixed Reality)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rm_xWvgnWXE" title="HandovAR Prototype Demo via Meta Quest 3 (VR simulating AR)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

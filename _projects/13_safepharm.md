@@ -29,3 +29,14 @@ By integrating data visualisation, workflow design, and human factors principles
 </ul>
 
 <img src="/images/projects/SafePhARm.jpg" alt="SafePhARm">
+
+### Project Start Year
+2025
+
+## Project Collaborators
+  - **Monash Embodied Visualisation Research Group** [Agnes Haryanto](https://research.monash.edu/en/persons/agnes-haryanto/) & [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+  - **University of Melbourne Human-Computer Interaction Research Group** [Huiwen Zhang](https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/huiwen-zhang)
+
+## Student Project
+  - **SafePhARm: Safe and Efficient Pharmacy Practice Through Augmented Reality**
+    - **Ongoing**{: .tag} Monash Advanced CS Research Project.

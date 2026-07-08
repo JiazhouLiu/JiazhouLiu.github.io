@@ -40,6 +40,14 @@ dimension option used. The bottom five figures illustrate implemented prototype 
 recent research: (a) Wall Display , (b) Floor Display , (c) Tabletop Display , (d) Body-fixed Display , and (e) Cockpit
 Display.*
 
+### Project Start Year - End Year
+2022 - 2023
+
+## Project Supervisors
+ - **Monash Embodied Visualisation Research Group** [Prof. Tim Dwyer](https://research.monash.edu/en/persons/tim-dwyer/)
+ - **The University of British Columbia** [A/Prof. Barrett Ens](https://cmps.ok.ubc.ca/about/contact/barrett-ens/)
+ - **French Institute for Research in Computer Science and Automation** [Arnaud Prouzeau](https://www.aprouzeau.com/)
+
 ## Publication and Thesis
 **Liu, J.**, Ens, B., Prouzeau, A., Smiley, J., Nixon, I.K., Goodwin, S. and Dwyer, T., 2023, April. Datadancing: An exploration of the design space for visualisation view management for 3d surfaces and spaces. *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-17)*. [Publication Link](/publication/datadancing)
 
