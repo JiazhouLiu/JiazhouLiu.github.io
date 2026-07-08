@@ -129,8 +129,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover</b>
-      <div class="tag"><b>High Distinction Thesis</b></div><br>
+      Thesis Title: <b>Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover</b><br>
+      <span class="tag"><b>High Distinction Thesis</b></span><br>
       <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
@@ -146,8 +146,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>Towards Intelligent Immersive Healthcare: A Systematic Literature Review</b>
-      <div class="tag"><b>High Distinction Thesis</b></div><br>
+      Thesis Title: <b>Towards Intelligent Immersive Healthcare: A Systematic Literature Review</b><br>
+      <span class="tag"><b>High Distinction Thesis</b></span><br>
       <a class="tag" href="/projects/intelhealthcare/">Project Page</a>
     </p>
   </div>
@@ -163,8 +163,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality</b>
-      <div class="tag"><b>High Distinction Thesis</b></div><br>
+      Thesis Title: <b>A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality</b><br>
+      <span class="tag"><b>High Distinction Thesis</b></span><br>
       <a class="tag" href="/projects/contextAware/">Project Page</a>
     </p>
   </div>
@@ -180,8 +180,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality</b>
-      <div class="tag"><b>High Distinction Thesis</b></div><br>
+      Thesis Title: <b>Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality</b><br>
+      <span class="tag"><b>High Distinction Thesis</b></span><br>
       <a class="tag" href="/projects/infrastructure/">Project Page</a>
     </p>
   </div>
@@ -197,8 +197,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education</b>
-      <div class="tag"><b>High Distinction Thesis</b></div><br>
+      Thesis Title: <b>ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education</b><br>
+      <span class="tag"><b>High Distinction Thesis</b></span><br>
       <a class="tag" href="/projects/prodais/">Project Page</a>
     </p>
   </div>
@@ -214,8 +214,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study</b>
-      <div class="tag"><b>Distinction Thesis</b></div><br>
+      Thesis Title: <b>Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study</b><br>
+      <span class="tag"><b>Distinction Thesis</b></span><br>
       <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
@@ -231,8 +231,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images</b>
-      <div class="tag"><b>Distinction Thesis</b></div><br>
+      Thesis Title: <b>A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images</b><br>
+      <span class="tag"><b>Distinction Thesis</b></span><br>
       <a class="tag" href="/projects/brainTumourSeg/">Project Page</a>
     </p>
   </div>
@@ -248,8 +248,8 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: <b>Immersive Interfaces for Ureteroscopy</b>
-      <div class="tag"><b>High Distinction Thesis</b></div><br>
+      Thesis Title: <b>Immersive Interfaces for Ureteroscopy</b><br>
+      <span class="tag"><b>High Distinction Thesis</b></span><br>
     </p>
   </div>
 </div>
