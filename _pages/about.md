@@ -81,12 +81,12 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
   <div class="project-row">
     <div class="project-image">
-      <img src="/images/projects/BSTS.png" alt="Behavioural Skills Training System">
+      <img src="/images/projects/SafePhARm.jpg" alt="SafePhARm Project Teaser">
     </div>
     <div class="project-content">
-      <h3><a class="no-underline" href="/projects/bsts/">Behavioural Skills Training System for Emergency Services Workers</a></h3>
+      <h3><a class="no-underline" href="/projects/safepharm/">SafePhARm: Safe and Efficient Pharmacy Practice Through Augmented Reality</a></h3>
       <p>
-        The project tests flexible virtual personas that vary in tone, emotion, and resistance to create adaptive role play. It aims to improve the quality, accessibility, and scalability of simulation training, especially for regional and remote learners. Educators can supervise sessions in real time or review interactions through secure recordings and analytics, strengthening feedback loops. 
+        SafePhARm project explores the use of Augmented Reality (AR) to provide context-aware information directly within pharmacists’ field of view. It aims to identify workflow inefficiencies, co-design AR interfaces with pharmacists, and develop a proof-of-concept prototype. The system will be evaluated in a controlled environment to assess its impact on task efficiency, usability, and cognitive load, ultimately generating design guidelines and evidence for AR-enabled digital health solutions.
       </p>
     </div>
   </div>
